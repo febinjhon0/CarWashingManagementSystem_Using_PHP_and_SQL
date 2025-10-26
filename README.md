@@ -44,8 +44,9 @@ Car Washing Management System Project is a web application.  In-Car Washing Mana
 # 🔐 Default Login Credentials :-
 
 Admin
-Email: admin
-Password: test@123
+Email: admin@carwash.com
+Password: admin123
+
 
 
 
