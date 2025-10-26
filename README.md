@@ -17,6 +17,8 @@ Car Washing Management System Project is a web application.  In-Car Washing Mana
 
 ⭐ views Feedbacks
 
+
+
 🧼 Customer Portal (Optional if implemented)
 
 ⭐ Book car wash services online
@@ -26,4 +28,13 @@ Car Washing Management System Project is a web application.  In-Car Washing Mana
 ⭐ Download invoices
 
 ⭐ Write Feedbacks
+
+
+
+# 🛠️ Technologies Used
+Component	Technology
+Front-End	HTML, CSS, Bootstrap, Javascript
+Back-End	PHP (Core PHP)
+Database	MySQL
+Server	Apache (XAMPP)
 
