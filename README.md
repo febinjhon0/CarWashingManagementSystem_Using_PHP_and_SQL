@@ -3,7 +3,7 @@
 Car Washing Management System Project is a web application.  In-Car Washing Management System Project in PHP performed all the operations needed to clean the car successfully by using highly expert and experienced workers, also developed mimic of the whole system, works and checked the overall process step by step by visualization.
 
 ### Features:-✨
-👤 Admin Panel
+👤 Admin Panel :-
 
 ⭐ Add/Edit/Delete Car Wash Services
 
@@ -19,7 +19,7 @@ Car Washing Management System Project is a web application.  In-Car Washing Mana
 
 
 
-🧼 Customer Portal (Optional if implemented)
+🧼 Customer Portal (Optional if implemented) :-
 
 ⭐ Book car wash services online
 
@@ -31,12 +31,22 @@ Car Washing Management System Project is a web application.  In-Car Washing Mana
 
 
 
-# 🛠️ Technologies Used
+# 🛠️ Technologies Used :-
 | Component | Technology                      |
 | --------- | --------------------------------|
 | Front-End | HTML, CSS, Bootstrap,Javascript |
 | Back-End  | PHP (Core PHP)                  |
 | Database  | MySQL                           |
 | Server    | Apache (XAMPP                   |
+
+
+
+# 🔐 Default Login Credentials :-
+
+Admin
+Email: admin
+Password: test@123
+
+
 
 
