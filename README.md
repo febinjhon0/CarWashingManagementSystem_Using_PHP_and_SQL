@@ -31,7 +31,7 @@ Car Washing Management System Project is a web application.  In-Car Washing Mana
 
 
 
-# 🛠️ Technologies Used :-
+### 🛠️ Technologies Used :-
 | Component | Technology                      |
 | --------- | --------------------------------|
 | Front-End | HTML, CSS, Bootstrap,Javascript |
@@ -41,12 +41,12 @@ Car Washing Management System Project is a web application.  In-Car Washing Mana
 
 
 
-# 🔐 Default Login Credentials :-
+### 🔐 Default Login Credentials :-
 
-Admin
-Email: admin@carwash.com
-Password: admin123
+Admin👤
 
+Email:-admin
+Password:-test@123
 
 
 
