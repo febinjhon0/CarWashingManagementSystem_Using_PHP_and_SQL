@@ -45,7 +45,7 @@ Car Washing Management System Project is a web application.  In-Car Washing Mana
 
 Admin👤
 
-Email:-admin
+Email:-admin   
 Password:-test@123
 
 
