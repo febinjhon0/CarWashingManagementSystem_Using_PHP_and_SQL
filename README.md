@@ -32,9 +32,11 @@ Car Washing Management System Project is a web application.  In-Car Washing Mana
 
 
 # 🛠️ Technologies Used
-Component	Technology
-Front-End	HTML, CSS, Bootstrap, Javascript
-Back-End	PHP (Core PHP)
-Database	MySQL
-Server	Apache (XAMPP)
+| Component | Technology                      |
+| --------- | --------------------------------|
+| Front-End | HTML, CSS, Bootstrap,Javascript |
+| Back-End  | PHP (Core PHP)                  |
+| Database  | MySQL                           |
+| Server    | Apache (XAMPP                   |
+
 
